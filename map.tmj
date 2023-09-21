@@ -226,11 +226,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/docs.tsc.signintra.com\/sq\/ta3s\/testautomation-guides\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -348,11 +343,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/teams.microsoft.com\/convene\/meetings?url=%2Fl%2Fmeetup-join%2F19%3Ameeting_Njg5MzY5NmMtOWM1Zi00MDVjLTljMWMtMWU5MTc4NzNkMmQ0%40thread.v2%2F0%3Fcontext%3D%257B%2522Tid%2522%253A%2522c5d1e823-e2b8-46bf-92ff-84f54313e0a5%2522%252C%2522Oid%2522%253A%252262d988f3-c5ad-41f4-aa18-f120301f0602%2522%252C%2522IsBroadcastMeeting%2522%253Atrue%252C%2522role%2522%253A%2522a%2522%257D%26btype%3Da%26role%3Da%26anon%3Dtrue&tenantId=c5d1e823-e2b8-46bf-92ff-84f54313e0a5&deeplinkId=60917b9a-2b55-4f80-a73a-691193367d92"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -470,11 +460,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/teams.microsoft.com\/convene\/meetings?url=%2Fl%2Fmeetup-join%2F19%3Ameeting_Njg5MzY5NmMtOWM1Zi00MDVjLTljMWMtMWU5MTc4NzNkMmQ0%40thread.v2%2F0%3Fcontext%3D%257B%2522Tid%2522%253A%2522c5d1e823-e2b8-46bf-92ff-84f54313e0a5%2522%252C%2522Oid%2522%253A%252262d988f3-c5ad-41f4-aa18-f120301f0602%2522%252C%2522IsBroadcastMeeting%2522%253Atrue%252C%2522role%2522%253A%2522a%2522%257D%26btype%3Da%26role%3Da%26anon%3Dtrue&tenantId=c5d1e823-e2b8-46bf-92ff-84f54313e0a5&deeplinkId=60917b9a-2b55-4f80-a73a-691193367d92"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -592,11 +577,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/teams.microsoft.com\/convene\/meetings?url=%2Fl%2Fmeetup-join%2F19%3Ameeting_Njg5MzY5NmMtOWM1Zi00MDVjLTljMWMtMWU5MTc4NzNkMmQ0%40thread.v2%2F0%3Fcontext%3D%257B%2522Tid%2522%253A%2522c5d1e823-e2b8-46bf-92ff-84f54313e0a5%2522%252C%2522Oid%2522%253A%252262d988f3-c5ad-41f4-aa18-f120301f0602%2522%252C%2522IsBroadcastMeeting%2522%253Atrue%252C%2522role%2522%253A%2522a%2522%257D%26btype%3Da%26role%3Da%26anon%3Dtrue&tenantId=c5d1e823-e2b8-46bf-92ff-84f54313e0a5&deeplinkId=60917b9a-2b55-4f80-a73a-691193367d92"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2221,11 +2201,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Conference"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2243,11 +2218,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Conference"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2265,11 +2235,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Conference"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2287,11 +2252,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Conference"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2309,11 +2269,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Conference"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2331,11 +2286,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Conference"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2353,11 +2303,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Conference"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2375,11 +2320,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Conference"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2397,11 +2337,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Conference"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2419,11 +2354,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Conference"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2441,11 +2371,6 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Conference"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
