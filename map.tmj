@@ -342,7 +342,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/teams.microsoft.com\/convene\/meetings?url=%2Fl%2Fmeetup-join%2F19%3Ameeting_Njg5MzY5NmMtOWM1Zi00MDVjLTljMWMtMWU5MTc4NzNkMmQ0%40thread.v2%2F0%3Fcontext%3D%257B%2522Tid%2522%253A%2522c5d1e823-e2b8-46bf-92ff-84f54313e0a5%2522%252C%2522Oid%2522%253A%252262d988f3-c5ad-41f4-aa18-f120301f0602%2522%252C%2522IsBroadcastMeeting%2522%253Atrue%252C%2522role%2522%253A%2522a%2522%257D%26btype%3Da%26role%3Da%26anon%3Dtrue&tenantId=c5d1e823-e2b8-46bf-92ff-84f54313e0a5&deeplinkId=60917b9a-2b55-4f80-a73a-691193367d92"
+                         "value":"{{{ terminalConferenceLink }}}"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -459,7 +459,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/teams.microsoft.com\/convene\/meetings?url=%2Fl%2Fmeetup-join%2F19%3Ameeting_Njg5MzY5NmMtOWM1Zi00MDVjLTljMWMtMWU5MTc4NzNkMmQ0%40thread.v2%2F0%3Fcontext%3D%257B%2522Tid%2522%253A%2522c5d1e823-e2b8-46bf-92ff-84f54313e0a5%2522%252C%2522Oid%2522%253A%252262d988f3-c5ad-41f4-aa18-f120301f0602%2522%252C%2522IsBroadcastMeeting%2522%253Atrue%252C%2522role%2522%253A%2522a%2522%257D%26btype%3Da%26role%3Da%26anon%3Dtrue&tenantId=c5d1e823-e2b8-46bf-92ff-84f54313e0a5&deeplinkId=60917b9a-2b55-4f80-a73a-691193367d92"
+                         "value":"{{{ airportConferenceLink }}}"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -576,7 +576,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/teams.microsoft.com\/convene\/meetings?url=%2Fl%2Fmeetup-join%2F19%3Ameeting_Njg5MzY5NmMtOWM1Zi00MDVjLTljMWMtMWU5MTc4NzNkMmQ0%40thread.v2%2F0%3Fcontext%3D%257B%2522Tid%2522%253A%2522c5d1e823-e2b8-46bf-92ff-84f54313e0a5%2522%252C%2522Oid%2522%253A%252262d988f3-c5ad-41f4-aa18-f120301f0602%2522%252C%2522IsBroadcastMeeting%2522%253Atrue%252C%2522role%2522%253A%2522a%2522%257D%26btype%3Da%26role%3Da%26anon%3Dtrue&tenantId=c5d1e823-e2b8-46bf-92ff-84f54313e0a5&deeplinkId=60917b9a-2b55-4f80-a73a-691193367d92"
+                         "value":"{{{ seaportConferenceLink }}}"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -2429,6 +2429,60 @@
                  "width":1090.90909090909,
                  "x":1157.57575757576,
                  "y":385.818181818182
+                }, 
+                {
+                 "height":0,
+                 "id":55,
+                 "name":"airportConferenceLink",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"https:\/\/teams.microsoft.com\/convene\/meetings?url=%2Fl%2Fmeetup-join%2F19%3Ameeting_Njg5MzY5NmMtOWM1Zi00MDVjLTljMWMtMWU5MTc4NzNkMmQ0%40thread.v2%2F0%3Fcontext%3D%257B%2522Tid%2522%253A%2522c5d1e823-e2b8-46bf-92ff-84f54313e0a5%2522%252C%2522Oid%2522%253A%252262d988f3-c5ad-41f4-aa18-f120301f0602%2522%252C%2522IsBroadcastMeeting%2522%253Atrue%252C%2522role%2522%253A%2522a%2522%257D%26btype%3Da%26role%3Da%26anon%3Dtrue&tenantId=c5d1e823-e2b8-46bf-92ff-84f54313e0a5&deeplinkId=60917b9a-2b55-4f80-a73a-691193367d92"
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":3378,
+                 "y":1803
+                }, 
+                {
+                 "height":0,
+                 "id":56,
+                 "name":"terminalConferenceLink",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"https:\/\/teams.microsoft.com\/convene\/meetings?url=%2Fl%2Fmeetup-join%2F19%3Ameeting_Njg5MzY5NmMtOWM1Zi00MDVjLTljMWMtMWU5MTc4NzNkMmQ0%40thread.v2%2F0%3Fcontext%3D%257B%2522Tid%2522%253A%2522c5d1e823-e2b8-46bf-92ff-84f54313e0a5%2522%252C%2522Oid%2522%253A%252262d988f3-c5ad-41f4-aa18-f120301f0602%2522%252C%2522IsBroadcastMeeting%2522%253Atrue%252C%2522role%2522%253A%2522a%2522%257D%26btype%3Da%26role%3Da%26anon%3Dtrue&tenantId=c5d1e823-e2b8-46bf-92ff-84f54313e0a5&deeplinkId=60917b9a-2b55-4f80-a73a-691193367d92"
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":269.333333333333,
+                 "y":1988
+                }, 
+                {
+                 "height":0,
+                 "id":57,
+                 "name":"seaportConferenceLink",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"https:\/\/teams.microsoft.com\/convene\/meetings?url=%2Fl%2Fmeetup-join%2F19%3Ameeting_Njg5MzY5NmMtOWM1Zi00MDVjLTljMWMtMWU5MTc4NzNkMmQ0%40thread.v2%2F0%3Fcontext%3D%257B%2522Tid%2522%253A%2522c5d1e823-e2b8-46bf-92ff-84f54313e0a5%2522%252C%2522Oid%2522%253A%252262d988f3-c5ad-41f4-aa18-f120301f0602%2522%252C%2522IsBroadcastMeeting%2522%253Atrue%252C%2522role%2522%253A%2522a%2522%257D%26btype%3Da%26role%3Da%26anon%3Dtrue&tenantId=c5d1e823-e2b8-46bf-92ff-84f54313e0a5&deeplinkId=60917b9a-2b55-4f80-a73a-691193367d92"
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":2663.63636363636,
+                 "y":406.060606060606
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2669,7 +2723,7 @@
          "y":0
         }],
  "nextlayerid":104,
- "nextobjectid":55,
+ "nextobjectid":58,
  "orientation":"orthogonal",
  "properties":[
         {
