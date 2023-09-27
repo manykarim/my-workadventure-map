@@ -2624,7 +2624,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":1400,
                  "x":116,
@@ -2641,7 +2641,7 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":503.030303030303,
                  "x":2839.39393939394,
