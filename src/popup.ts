@@ -18,14 +18,14 @@ WA.room.area.onEnter("boothWa").subscribe(() => {
     [
         {
             label: "DB Planet",
-            callback: (popup) => {
+            callback: () => {
                 WA.nav.openTab(urlWA)
                 closePopup();
             }
         },
         {
             label: "Close",
-            callback: (popup) => {
+            callback: () => {
                 closePopup();
             }
         }
