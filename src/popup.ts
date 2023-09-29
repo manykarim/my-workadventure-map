@@ -1,9 +1,6 @@
 /// <reference types="@workadventure/iframe-api-typings" />
 
-import { bootstrapExtra } from "@workadventure/scripting-api-extra";
-
 let currentPopup: any = undefined;
-var isCoWebSiteOpened =  false;
 var urlWA ='https://db-planet.deutschebahn.com/pages/telefonie/apps/content/workadventure';
 
 function closePopup(){
