@@ -340,7 +340,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"{{{ terminalConferenceLink }}}"
                         }],
@@ -2755,7 +2755,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/teams.microsoft.com\/convene\/meetings?url=%2Fl%2Fmeetup-join%2F19%3Ameeting_M2JhZTYxMDYtYjE4ZC00YmE0LTg1YjktYTQwM2NiOTZjY2Ey%40thread.v2%2F0%3Fcontext%3D%257B%2522Tid%2522%253A%2522c5d1e823-e2b8-46bf-92ff-84f54313e0a5%2522%252C%2522Oid%2522%253A%2522076ee64c-0e9a-4473-92e0-f70388d1ef3a%2522%252C%2522IsBroadcastMeeting%2522%253Atrue%252C%2522role%2522%253A%2522a%2522%257D%26btype%3Da%26role%3Da%26anon%3Dtrue&tenantId=c5d1e823-e2b8-46bf-92ff-84f54313e0a5&deeplinkId=8b345ccd-b187-4eec-b6cb-97843054132a"
+                         "value":"https:\/\/teams.microsoft.com\/v2\/?meetingjoin=true#\/l\/meetup-join\/19:meeting_MmY2NjI1ZjItNDE0NC00YWNlLTkwZjQtNGFlMTVkM2ZhZWIy@thread.v2\/0?context=%7B%22Tid%22:%22c5d1e823-e2b8-46bf-92ff-84f54313e0a5%22,%22Oid%22:%2262d988f3-c5ad-41f4-aa18-f120301f0602%22%7D&anon=true&deeplinkId=d5d97a5d-aa4b-4d3a-909d-b9cb73b7ef59"
                         }, 
                         {
                          "name":"label",
